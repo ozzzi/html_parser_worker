@@ -1,1 +1,1 @@
-# html_parser_worker
+# Example parser html with RabbitMQ

@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^5.3",
+        "symfony/css-selector": "^5.3",
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
